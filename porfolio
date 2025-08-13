@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu porfólio</title>
+
+    
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    
+    
+    <header>
+        <h1>Vinicius Castro de Oliveira</h1>
+        <nav>
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+   <section id="sobre">
+        <h2>Sobre mim</h2>
+        <div class="sobre-container">
+        <img src="img/eu_gostoso.jpg" alt="Minha foto">
+        <div class="sobre-texto">
+            <p>Opa! Sou um programador aprendiz, estou no segundo semestre da faculdade e estou começando a trabalhar com html e css,
+            pretendo ser um programador fullstack porém voltado mais para o front-end.
+            Já fiz curso técnico de design digital na Epic School, no centro de Campinas. Tenho vontade de aperfeiçoar minhas habilidades
+            criativas e pretendo continuar no ramo de desenvolvedor. Atualmente moro em Paulínia - SP, trabalhei com freelance no meu ensino médio
+            focado em design digital e edição de vídeo.</p>
+        </div>
+        </div>
+    </section>
+
+    <section id="projetos">
+        <h2>Meus projetos</h2>
+        <div class="projeto">
+            <h3>Ainda com nenhum projeto.</h3>
+        </div>
+    </section>
+
+    <section id="contato">
+        <h2>contato</h2>
+        <p>Email: viniciuscoliveira14@gmail.com</p>
+        <p><a href="https://www.instagram.com/viniciuscoliveira14" target="_blank">Instagram</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 - Vinicius Castro de Oliveira. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
