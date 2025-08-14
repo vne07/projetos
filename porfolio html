@@ -30,7 +30,7 @@
    <section id="sobre">
         <h2>Sobre mim</h2>
         <div class="sobre-container">
-        <img src="img/eu_gostoso.jpg" alt="Minha foto">
+        <img src="img/eu_gostoso.jpeg" alt="Minha foto">
         <div class="sobre-texto">
             <p>Opa! Sou um programador aprendiz, estou no segundo semestre da faculdade e estou começando a trabalhar com html e css,
             pretendo ser um programador fullstack porém voltado mais para o front-end.
@@ -44,7 +44,7 @@
     <section id="projetos">
         <h2>Meus projetos</h2>
         <div class="projeto">
-            <h3>Ainda com nenhum projeto.</h3>
+            <h3><a href="https://github.com/vne07">Meu Github</a></h3>
         </div>
     </section>
 
@@ -52,6 +52,7 @@
         <h2>contato</h2>
         <p>Email: viniciuscoliveira14@gmail.com</p>
         <p><a href="https://www.instagram.com/viniciuscoliveira14" target="_blank">Instagram</a></p>
+        <p>Telefone: (19) 99313-0158</p>
     </section>
 
     <footer>
